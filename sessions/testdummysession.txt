@@ -1,0 +1,24 @@
+Microsoft Windows [Version 10.0.18362.1016]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\user\webapps\maybe-not-a-webapp-autoit-script\windows-cmd-sessions>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 70FD-3F49
+
+ Directory of C:\Users\user\webapps\maybe-not-a-webapp-autoit-script\windows-cmd-sessions
+
+17/08/2020  16:16    <DIR>          .
+17/08/2020  16:16    <DIR>          ..
+17/08/2020  16:17    <DIR>          sessions
+17/08/2020  16:35             1,893 windows-cmd-sessions.ahk
+               1 File(s)          1,893 bytes
+               3 Dir(s)  694,510,350,336 bytes free
+
+C:\Users\user\webapps\maybe-not-a-webapp-autoit-script\windows-cmd-sessions>mkdir tests
+
+C:\Users\user\webapps\maybe-not-a-webapp-autoit-script\windows-cmd-sessions>cd tests
+
+C:\Users\user\webapps\maybe-not-a-webapp-autoit-script\windows-cmd-sessions\tests>echo this is a dummy session
+this is a dummy session
+
+C:\Users\user\webapps\maybe-not-a-webapp-autoit-script\windows-cmd-sessions\tests>
